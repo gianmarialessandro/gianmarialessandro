@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Alessandro an italian living in Berlin
-- 👀 I’m interested in Software Developing
+- 👋 Hi, I'm Alessandro and I live in Berlin
+- 👀 I'm interested in software development, especially on the front-end side
 
 
-- 📫 Here you can reach me 
-    gianmarialessandro.com
+- 📫 Here you can contact me [gianmarialessandro.com](https://gianmarialessandro.com)
 
 <!---
 gianmarialessandro/gianmarialessandro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
