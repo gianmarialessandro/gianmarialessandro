@@ -1,5 +1,6 @@
 - 👋 Hi, I'm Alessandro and I live in Berlin
-- 👀 I'm interested in software development, especially on the front-end side
+
+- 👀 I'm a software developer, interested on front- and back-end side
 
 
 - 📫 Here you can contact me [gianmarialessandro.com](https://gianmarialessandro.com)
